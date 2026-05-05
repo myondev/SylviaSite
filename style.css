@@ -1,11 +1,29 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: plum;
-}
-
-.title {
-    text-align: center;
+    background-color: rgb(58, 38, 58);
+    color:white;
 }
 .topbar {
-    background-color: white;
+    background-color: rgb(113, 66, 106);
+    border: solid 1.5px #401945;
+    text-align: center;
+}
+.maintext{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #3b233f;
+    border: solid 1.5px #170919;
+}
+.blogentry{
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #3b233f;
+    border: solid 1.5px #170919;
+}
+a:link{
+    color:rgb(68, 145, 189)
+}
+a:visited{
+    color: #977df6;
 }
