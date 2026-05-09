@@ -11,6 +11,16 @@ body {
     border: solid 1.5px #401945;
     text-align: center;
 }
+.sitename, .sitename:visited{
+    color:white;
+    text-decoration: none;
+}
+.sitename:hover{
+    text-decoration: underline;
+}
+.randomtext {
+    margin-top: -0.8%;
+}
 .index-content {
     display: grid;
     grid-template-columns: 12% 60% 1fr;
@@ -20,16 +30,26 @@ body {
     grid-template-columns: 12% 1fr;
 }
 .sidebar {
-    display: grid;
-    height: 50%;
-    grid-template-rows: auto;
-    text-align: center;
-    padding: 20px;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-size: large;
-    padding-left: 20px;
-    padding-right: 20px;
     background-color: #3b233f;
     border: solid 1.5px #170919;
+}
+.menubutton, .menubutton:visited {
+    display:block;
+    color:rgb(241, 138, 252);
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+    height:40px;
+    background-color: #3b233f;
+    font-size: larger;
+}
+
+.menubutton:hover {
+    background-color: #8b5694;
 }
 .maintext {
     margin-left: 10px;
