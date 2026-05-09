@@ -11,7 +11,7 @@ body {
     border: solid 1.5px #401945;
     text-align: center;
 }
-.sitename, .sitename:visited{
+.sitename, .sitename:link, .sitename:visited{
     color:white;
     text-decoration: none;
 }
@@ -37,7 +37,7 @@ body {
     background-color: #3b233f;
     border: solid 1.5px #170919;
 }
-.menubutton, .menubutton:visited {
+.menubutton, .menubutton:link, .menubutton:visited {
     display:block;
     color:rgb(241, 138, 252);
     text-decoration: none;
