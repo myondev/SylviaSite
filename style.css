@@ -91,3 +91,7 @@ a:link{
 a:visited{
     color: #977df6;
 }
+
+.blogimage{
+    text-align: center;
+}
