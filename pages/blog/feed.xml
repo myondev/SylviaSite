@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Sylver Systems</title>
+  <description>Random yapping by Sylvia</description>
+  <link>https://sylvermyon.neocities.org</link>
+  <lastBuildDate>
+    Sun, 31 May 2026 00:27:23 -0700
+  </lastBuildDate>
+  <ttl>1440</ttl>
+  <!-- header above, articles time!-->
+   <item>
+    <title>Graduation</title>
+    <description>
+      oh hey, i graduated!
+    </description>
+    <link>https://sylvermyon.neocities.org/pages/blog/graduation</link>
+    <pubDate>
+      Sun, 30 May 2026 20:45:00 -0700
+    </pubDate>
+  </item>
+   <item>
+    <title>My desktop (and various other devices)</title>
+    <description>
+      yapping about my devices
+    </description>
+    <link>https://sylvermyon.neocities.org/pages/blog/mydesktop</link>
+    <pubDate>
+      Mon, 11 May 2026 00:00:00 -0700
+    </pubDate>
+  </item>
+    <item>
+    <title>Touhou and its impact on me</title>
+    <description>
+      how did sylvia get into touhou?
+    </description>
+    <link>https://sylvermyon.neocities.org/pages/blog/touhouimpact</link>
+    <pubDate>
+      Mon, 4 May 2026 00:00:00 -0700
+    </pubDate>
+  </item>
+     <item>
+    <title>Start of May</title>
+    <description>
+      random thoughts about may
+    </description>
+    <link>https://sylvermyon.neocities.org/pages/blog/startofmay</link>
+    <pubDate>
+      Mon, 4 May 2026 00:00:00 -0700
+    </pubDate>
+  </item>
+     <item>
+    <title>The first blog post...</title>
+    <description>
+      here we are
+    </description>
+    <link>https://sylvermyon.neocities.org/pages/blog/firstblog</link>
+    <pubDate>
+      Mon, 4 May 2026 00:00:00 -0700
+    </pubDate>
+  </item>
+
+</channel>
+</rss>
